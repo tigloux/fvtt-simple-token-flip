@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.350"
+    "verified": "14"
   },
   "authors": [
     {
@@ -24,5 +24,8 @@
       "name": "Français",
       "path": "lang/fr.json"
     }
-  ]
+  ],
+  "url": "https://github.com/VOTRE_PSEUDO/simple-token-flip",
+  "manifest": "https://github.com/VOTRE_PSEUDO/simple-token-flip/releases/latest/download/module.json",
+  "download": "https://github.com/VOTRE_PSEUDO/simple-token-flip/releases/download/v1.0.0/module.zip"
 }
