@@ -1,0 +1,28 @@
+{
+  "id": "simple-token-flip",
+  "title": "Simple Token Flip",
+  "description": "Un module générique permettant de retourner un token (effet flip) ou de cycler entre plusieurs apparences avec une animation fluide.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.350"
+  },
+  "authors": [
+    {
+      "name": "Tigilou"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/token-flip.css"
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ]
+}

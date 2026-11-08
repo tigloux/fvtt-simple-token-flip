@@ -1,0 +1,17 @@
+{
+  "TOKENFLIP": {
+    "FlipButton": "Retourner le Token (Clic gauche : Suivant | Clic droit : Menu)",
+    "ConfigLegend": "Configuration de Simple Token Flip",
+    "FacesList": "Faces du Token",
+    "AddFace": "Ajouter une face",
+    "FaceLabel": "Nom de la face (ex: Forme Humaine)",
+    "FaceImg": "Chemin de l'image / vidéo",
+    "DeleteFace": "Supprimer cette face",
+    "Settings": {
+      "DurationName": "Durée de l'animation (ms)",
+      "DurationHint": "Temps total de l'animation de retournement en millisecondes.",
+      "AllowPlayersName": "Autoriser les joueurs",
+      "AllowPlayersHint": "Permet aux joueurs de retourner les tokens dont ils sont propriétaires."
+    }
+  }
+}
